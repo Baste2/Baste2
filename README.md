@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baste2
 - 👀 I’m interested in ... Basketball
-- 🌱 I’m currently learning ... C++ and C
-- 💞️ I’m looking to collaborate on ... making a project in C
+- 🌱 I’m currently learning ... C++ and Python
+- 💞️ I’m looking to collaborate on ... making a project in Python
 - 📫 How to reach me ... email me at sebastianvesperanza@gmail.com
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ... I can write in my both hands
